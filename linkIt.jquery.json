@@ -1,0 +1,34 @@
+{
+    "name": "linkIt",
+    "title": "linkIt",
+    "description": "jQuery plugin",
+    "keywords": [
+        "link",
+        "html",
+		"content"
+    ],
+    "version": "0.0.0",
+    "author": {
+        "name": "gmeyer",
+        "url": "httl://noordinarysite.x10hosting.com"
+    },
+    "maintainers": [
+        {
+            "name": "Geroge Meyer",
+            "email": "gmeyre1000@yahoo.com",
+            "url": "http://noordinarysite.x10hosting.com""
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jsgeorge/jquary.linkIt/LICENSE.txt"
+        }
+    ],
+     "homepage": "https://github.com/jsgeorge/jquary.linkIt",
+    "docs": "https://github.com/jsgeorge/jquary.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
+
